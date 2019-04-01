@@ -1,8 +1,10 @@
-# code.fun.do
+# Microsoft code.fun.do
 
 # Team name: *Illuminati*
 
 ## Project name: *acadAI*
+
+Description: In a group of three, we developed a web application and implemented three modules: Automatic Question Paper Generator, Answer Key Generator and Evaluator. Idea is to reduce the work of teaching assistants.
 
 [Drive Link for complete package](https://drive.google.com/open?id=1rqngY6jLpqIC8I09H5AMNBeybUO6tECQ)*(No need to clone the github repo)*
 
